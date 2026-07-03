@@ -1,0 +1,14 @@
+La interfaz tendría un formulario simple para crear una causa, con campos como título, 
+descripción y fecha de creación. 
+
+Debajo del formulario se mostraría una lista de causas disponibles, cada una con su 
+información principal visible para la comunidad. 
+
+Cada causa incluiría un botón de “Apoyar”, que permitiría registrar un apoyo con un 
+solo clic. 
+
+Junto al botón se mostraría un contador actualizado que indique cuántas personas han 
+apoyado la causa. 
+
+La interfaz debe ser clara, accesible y evitar mostrar datos privados de los usuarios, 
+mostrando únicamente la información necesaria para la participación comunitaria.

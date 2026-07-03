@@ -1,0 +1,9 @@
+Una plataforma tecnológica orientada a la participación ciudadana necesita una base de datos para 
+organizar y almacenar de forma estructurada las causas, los apoyos y los registros de interacción. 
+Sin este componente sería imposible mantener orden, trazabilidad y continuidad en los procesos comunitarios. 
+La autenticación de usuarios es esencial para controlar quién puede acceder a funciones internas, evitando 
+manipulaciones o accesos indebidos que puedan afectar la confianza en la plataforma. Además, la protección 
+de la información es un requisito fundamental para cuidar la privacidad de los ciudadanos y prevenir riesgos 
+como filtraciones, suplantación o uso malintencionado de los datos. Cuando una plataforma integra almacenamiento 
+seguro, control de acceso y buenas prácticas de privacidad, se convierte en un espacio confiable que fortalece 
+la participación, la transparencia y la organización comunitaria.
